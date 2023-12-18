@@ -8,8 +8,9 @@
 4) Diffusion Models Beat GANs on Image Synthesis (2021)
 5) DENOISING DIFFUSION IMPLICIT MODELS (2022)
 6) High-Resolution Image Synthesis with Latent Diffusion Models (2022)
-7) Improving Image Generation with Better Captions (2023)
-8) 
+7) CLASSIFIER-FREE DIFFUSION GUIDANCE (2022)
+8) Improving Image Generation with Better Captions (2023)
+9) 
 
 
 ## Methodes of fine-tuning Diffusion Models
@@ -20,6 +21,9 @@
 
 ## Controllable Generation with Diffusion Models
 
-1) Adding Conditional Control to Text-to-Image Diffusion Models
-2) 
+1) Adding Conditional Control to Text-to-Image Diffusion Models (2023)
+
+## Video Generation
+
+1) Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models (2023)
 
